@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgtavarez&layout=compact&langs_count=8&theme=dracula" alt="macropower" align="right" />
 </a>
 
-- :office: &nbsp;Actualmente estoy trabajando en **[Intellisys D. Corp.](https://github.com/intellisysdcorp)**
+- :office: &nbsp;Actualmente estoy trabajando en **[Heimatlas](https://github.com/Heimatlas)**
 - :seedling: &nbsp;Estoy enfocado en aprender **C++**
 - :speech_balloon: &nbsp;Me gusta desarrollar aplicaciones de alto impacto con vocación de servicio que tienen como objetivo mejorar las vidas de las personas.
 - :computer: &nbsp;Contáctame por **[Email](mailto:juangabriel2960@gmail.com)**
