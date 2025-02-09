@@ -10,9 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgtavarez&layout=compact&langs_count=8&theme=dracula" alt="macropower" align="right" />
 </a>
 
-- :office: &nbsp;Actualmente estoy trabajando en **[Heimatlas](https://github.com/Heimatlas)**
-- :seedling: &nbsp;Estoy enfocado en aprender **C++**
-- :speech_balloon: &nbsp;Me gusta desarrollar aplicaciones de alto impacto con vocación de servicio que tienen como objetivo mejorar las vidas de las personas.
+- :speech_balloon: &nbsp;Soy un ex programador competitivo de ACM ICPC y desarrollador de software Full Stack con más de 4 años de experiencia en el desarrollo de soluciones multiplataforma (aplicaciones web y móviles). Dispuesto a participar en cualquiera de las etapas de desarrollo de software, trabajando con metodologías ágiles. Enfocado en entregar la mejor experiencia de usuario posible, seguido de mejores prácticas, patrones de diseño y código optimizado.
 - :computer: &nbsp;Contáctame por **[Email](mailto:juangabriel2960@gmail.com)**
 - :computer: &nbsp;Conéctate conmigo en **[LinkedIn](https://www.linkedin.com/in/jgtavarez/)**
 
@@ -24,35 +22,17 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="https://www.javascript.com/" target="_blank">
-        <img src="./assets/javascript.png" height="48" alt="javascript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
+  <td align="center" width="96">
       <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="./assets/typescript.png" height="48" alt="typescript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="https://reactjs.org/" target="_blank">
-        <img src="./assets/react.png" height="48" alt="react" />
+      <a href="https://www.javascript.com/" target="_blank">
+        <img src="./assets/javascript.png" height="48" alt="javascript" />
       </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="https://go.dev/" target="_blank">
-        <img src="./assets/go.svg" height="48" alt="go" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="https://angular.io/" target="_blank">
-        <img src="./assets/angular.png" height="48" alt="angular" />
-      </a>
-      <br>Angular
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="https://nodejs.org/" target="_blank">
@@ -61,16 +41,34 @@
       <br>Node.js
     </td>
     <td align="center" width="96">
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="./assets/react.png" height="48" alt="react" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
       <a href="https://nextjs.org/" target="_blank">
         <img src="./assets/next.png" height="48" alt="next" />
       </a>
       <br>Next.js
     </td>
     <td align="center" width="96">
-      <a href="https://vuejs.org/" target="_blank">
-        <img src="./assets/vue.png" height="48" alt="vue" />
+      <a href="https://angular.io/" target="_blank">
+        <img src="./assets/angular.png" height="48" alt="angular" />
       </a>
-      <br>Vue.js
+      <br>Angular
+    </td>
+     <td align="center" width="96">
+      <a href="https://nestjs.com" target="_blank">
+        <img src="./assets/nestjs.png"  height="48" alt="nest" />
+      </a>
+      <br>Nest.js
+    </td>
+    <td align="center" width="96">
+      <a href="https://graphql.org" target="_blank">
+        <img src="./assets/graphql.png" height="48" alt="GraphQL" />
+      </a>
+      <br>GraphQL
     </td>
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank">
@@ -99,22 +97,22 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <a href="https://sequelize.org/" target="_blank">
-        <img src="./assets/sequelize.png" height="48" alt="sequelize" />
-      </a>
-      <br>Sequelize
-    </td>
-    <td align="center" width="96">
       <a href="https://www.mongodb.com/" target="_blank">
         <img src="./assets/mongodb.png" height="48" alt="mongodb" />
       </a>
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <a href="https://www.heroku.com/" target="_blank">
-        <img src="./assets/heroku.png" height="48" alt="Heroku" />
+      <a href="https://aws.amazon.com/" target="_blank">
+        <img src="./assets/aws.png" height="48" alt="AWS" />
       </a>
-      <br>Heroku
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="https://cloud.google.com/" target="_blank">
+        <img src="./assets/gcp.png" height="48" alt="GCP" />
+      </a>
+      <br>GCP
     </td>
     <td align="center" width="96">
       <a href="https://reactnative.dev/" target="_blank">
@@ -122,11 +120,11 @@
       </a>
       <br>Native
     </td>
-    <td align="center" width="96">
-      <a href="https://strapi.io/" target="_blank">
-        <img src="./assets/strapi.png"  height="48" alt="strapi" />
+   <td align="center" width="96">
+      <a href="https://go.dev/" target="_blank">
+        <img src="./assets/go.svg" height="48" alt="go" />
       </a>
-      <br>Strapi
+      <br>Go
     </td>
     <td align="center" width="96">
       <a href="https://reactnative.dev/" target="_blank">
