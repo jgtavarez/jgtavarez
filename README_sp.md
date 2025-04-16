@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: ¡Hola! Mi nombre es Juan Gabriel Tavárez López</h1>
+<h1 align="left" id="macropower-title">:wave: ¡Hola! Mi nombre es Juan Gabriel Tavárez</h1>
 <h3 align="left">Soy un Desarrollador de Software Fullstack de República Dominicana 🇩🇴</h3>
 
 [![english](https://img.shields.io/badge/english-🇺🇸-ffbb20?style=flat-square)](README.md)
